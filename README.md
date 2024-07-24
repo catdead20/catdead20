@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail. **romulojr0525@gmail.com**
 
-- Meu perfil Linkedln [www.linkedin.com/in/josé-romulo/](www.linkedin.com/in/josé-romulo/)
+- Meu perfil Linkedln [https://www.linkedin.com/in/jos%C3%A9-romulo/](https://www.linkedin.com/in/jos%C3%A9-romulo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
